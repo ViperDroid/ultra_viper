@@ -1,0 +1,8 @@
+requests
+scapy
+dnspython
+paramiko
+cryptography
+openai
+colorama
+pynput
